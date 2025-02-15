@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+.bt1{
+    background-color: white;
+    height: 40px;
+    width: 50%;
+    border: none;
+    border-radius: 7px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 3px;
+}
+.color{
+    background-color: rgb(182, 166, 166);
+    width: 400px;
+    padding: 15px;
+}
+.td1{
+    color: white;
+    
+}
+.td2{
+    color: white;
+}
+.ip1{
+    border-radius: 6px;
+    background-color: rgb(182,166,166 );
+    border: 2px solid white;
+}
