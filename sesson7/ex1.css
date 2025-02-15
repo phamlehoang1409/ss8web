@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+  body{
+    background-color: rgb(212, 198, 198);
+  }
+  .caption{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+  }
+ .conter{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 15px;
+ }
+ img{
+    vertical-align: middle;
+ }
+ .button{
+    line-height: 100px;
+    height: 20px;
+
+ }
+  .bt1{
+    width: 10%;
+    border-radius: 5px;
+    background-color: red;
+    padding: 10px;
+    color: white;
+    border: none;
+  }
+  .bt2{
+    width: 10%;
+    border-radius: 5px;
+    background-color: rgb(212,198,198);
+    padding: 10px;
+    color: black;
+    border-color: bisque;
+  }

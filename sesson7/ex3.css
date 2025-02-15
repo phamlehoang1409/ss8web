@@ -1,0 +1,19 @@
+img{
+    vertical-align: middle;
+}
+.sp0{
+    font-size: 60px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sp1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p2{
+    font-size: 20px;
+}
+.p1{
+    font-size: 20px;
+    opacity: 0.7;
+}

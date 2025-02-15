@@ -1,0 +1,24 @@
+
+*{
+    box-sizing: border-box;
+}
+.p1{
+    color: rgb(113, 70, 192);
+    font-size: 15px;
+}
+.th1{
+    border: 2px solid silver;
+    border-radius: 5px;
+    color: red;
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 50px;
+}
+table{
+    margin-bottom: 50px;
+    border-spacing: 20px;
+}
+.color{
+    background-color: chocolate;
+    width: 70%;
+}
